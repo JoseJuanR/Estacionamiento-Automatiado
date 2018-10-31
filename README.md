@@ -1,1 +1,1 @@
-# Estacionamiento-Automatiado
+# Estacionamiento-Automatizado
